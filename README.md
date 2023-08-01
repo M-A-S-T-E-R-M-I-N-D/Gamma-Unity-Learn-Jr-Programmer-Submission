@@ -40,7 +40,7 @@ This Unity project is designed to teach you how to implement a Point-and-Click f
 This project is created for educational purposes only. We encourage you to contact us if you have any issues or suggestions for improvement. Your feedback is valuable in helping us provide better educational content.
 
 💖 **Ways to Donate and Support Further:**
-- You can support our educational efforts by donating on our [BuyMeACoffee page](https://bmc.link/intj).
+- You can support our educational efforts by donating on our [Buy Me a Coffee page](https://bmc.link/intj).
 - Explore and play free games on our [Game Portal](https://intj.itch.io/) for fun gaming experiences.
 - Join our exclusive Discord community on our [Discord Server](https://discord.gg/fW9jjurxXv)
 
