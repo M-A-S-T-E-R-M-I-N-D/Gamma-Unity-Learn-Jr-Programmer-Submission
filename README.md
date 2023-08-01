@@ -50,7 +50,7 @@ You can fork the repository, make changes, and submit a pull request to contribu
 
 ## License
 
-This project is licensed under the MIT License. Please look at the [LICENSE](LICENSE) file in the repository for details.
+This project is licensed under the MIT License. Please look at the [LICENSE](LICENSE.md) file in the repository for details.
 
 ## Acknowledgments
 
