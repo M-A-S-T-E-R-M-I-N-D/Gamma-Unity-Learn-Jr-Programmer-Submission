@@ -54,7 +54,7 @@ This project is licensed under the MIT License. Please look at the [LICENSE](LIC
 
 ## Acknowledgments
 
-We want to express our gratitude to the YouTube community and our viewers who have supported us through likes, subscriptions, and donations on our [YouTube Channel](Your YouTube Channel Link) and [Itch.io Page](Your Itch.io Donation URL). Your support enables us to create free educational content for aspiring game designers.
+We want to express our gratitude to the YouTube community and our viewers who have supported us through likes, subscriptions, and donations on our [YouTube Channel](https://www.youtube.com/@intjgames) and [Itch.io Page](https://intj.itch.io/). Your support enables us to create free educational content for aspiring game designers.
 
 Let's embark on this exciting journey of game development together!
 
