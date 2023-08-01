@@ -18,7 +18,7 @@ public abstract class GameInput : MonoBehaviour
     protected Ray CurrentRay { get { return currentRay; } set { currentRay = value; } }
     protected RaycastHit CurrentHit { get { return currentHit; } set { currentHit = value; } }
 
-    // These abstract methods must be implements by subclass/es.
+    // These abstract methods must be implemented by subclass/es.
     public abstract bool GetInputStatus();
     public abstract Vector3 GetInputPosition();
     public abstract Ray GetRay();
