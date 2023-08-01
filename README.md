@@ -31,7 +31,7 @@ This Unity project is designed to teach you how to implement a Point-and-Click f
 
 2. **Open the Project in Unity:** Launch Unity and open the cloned project folder.
 
-3. **Explore the Scene:** Navigate to the "SampleScene" in the Unity Editor to explore the pre-built scene and understand how the Point-and-Click foundations system is implemented.
+3. **Explore the Scene:** Navigate to the demo scene in the Unity Editor to explore the pre-built scene and understand how the Point-and-Click foundations system is implemented.
 
 4. **Modify and Experiment:** Feel free to modify and experiment with the assets and scripts to suit your specific game requirements.
 
